@@ -7,7 +7,7 @@ from time import sleep
 
 #keep_alive.keep_alive()
 token = os.environ['BOT_TOKEN']
-api_hash = os.environ['API_HASK']
+api_hash = os.environ['API_HASH']
 api_id = os.environ['API_ID']
 
 # Inicializar o cliente do Pyrogram
